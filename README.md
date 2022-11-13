@@ -1,4 +1,4 @@
-# Protifolio de André Corrêa
+# Portfolio de André Corrêa
 
 ## gosto de jogar video game, assistir animes e ler livros de terror/suspense
 
