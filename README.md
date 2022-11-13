@@ -16,4 +16,5 @@ Algumas tecnologias e estou estudando e planejo aprender:
 oia q gif maneiro -> bota epic sax guy ao fundo, ta bom?
 
 [![gif gandalf](https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif)](https://github.com/dartmol203/)
+
 (clica na imagem pra achar meu perfil no git)
