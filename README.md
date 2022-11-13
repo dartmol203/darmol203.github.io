@@ -11,3 +11,8 @@ Algumas tecnologias e estou estudando e planejo aprender:
 - RPGMaker
 - Unreal engine
 
+# gif do gandalf.gif
+
+oia q gif maneiro -> bota epic sax guy ao fundo, ta bom?
+
+![gif gandalf](https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif)
